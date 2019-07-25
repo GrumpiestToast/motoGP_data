@@ -1,0 +1,77 @@
+,Track,Trk Length,Left_Corners,Right_Corners,track_width,length of longest straight,MotoGP_avg_speed,GP_distance,Moto2_distance,Moto3_distance
+0,GBR - Silverstone Circuit,5.9,8.0,10.0,15.0,770.0,n/a,118.0,106.2,100.3
+1,NED - TT Circuit Assen,4.5,6.0,12.0,14.0,487.0,173.1,118.1,109.0,99.9
+2,ARA - MotorLand Aragón,5.1,10.0,7.0,15.0,968.0,167.0,116.8,106.6,96.5
+3,QAT - Losail International Circuit,5.4,6.0,10.0,12.0,1068.0,166.6,118.4,107.6,96.8
+4,AME - Circuit Of The Americas,5.5,11.0,9.0,15.0,1200.0,158.4,110.3,99.2,93.7
+5,ARG - Termas de Río Hondo,4.8,5.0,9.0,16.0,1076.0,172.7,120.2,110.5,100.9
+6,RSM - Misano World Circuit Marco Simoncelli,4.2,6.0,10.0,14.0,530.0,162.6,114.1,105.7,97.2
+7,CZE - Automotodrom Brno,5.4,6.0,8.0,15.0,636.0,165.5,113.5,102.7,97.3
+8,GER - Sachsenring,3.7,10.0,3.0,12.0,700.0,160.6,110.1,102.8,99.1
+9,CAT - Circuit de Barcelona-Catalunya,4.6,6.0,8.0,12.0,1047.0,164.4,111.0,101.8,97.2
+10,VAL - Circuit Ricardo Tormo,4.0,9.0,5.0,12.0,876.0,139.8,108.1,100.1,92.1
+11,MAL - Sepang International Circuit,5.5,5.0,10.0,16.0,920.0,164.0,110.9,99.8,94.2
+12,SPA - Circuito de Jerez,4.4,6.0,8.0,11.0,607.0,161.2,110.6,101.7,97.3
+13,FRA - Le Mans,4.2,5.0,9.0,13.0,674.0,161.8,113.0,104.6,92.1
+14,CHN - Shanghai Circuit,5.281,7.0,,14.0,1202.0,n/a,,n/a,
+15,GBR - Donington Park Circuit,4.023,4.0,,10.0,564.0,n/a,,n/a,
+16,INP - Indianapolis Motor Speedway,4.216,10.0,,16.0,644.0,n/a,,n/a,
+17,POR - Estoril Circuitt,4.182,4.0,,14.0,986.0,n/a,,n/a,
+18,TUR - Istanbul Circuit,5.34,8.0,,21.0,720.0,n/a,,n/a,
+19,USA - Mazda Raceway Laguna Seca,3.61,7.0,,15.0,966.0,n/a,,n/a,
+20,USA - Mazda Raceway Laguna Seca,3.61,7.0,,15.0,966.0,n/a,,n/a,
+21,CHN - Shanghai Circuit,5.281,7.0,,14.0,1202.0,n/a,,n/a,
+22,GBR - Donington Park Circuit,4.023,4.0,,10.0,564.0,n/a,,n/a,
+23,INP - Indianapolis Motor Speedway,4.216,10.0,,16.0,644.0,n/a,,n/a,
+24,POR - Estoril Circuitt,4.182,4.0,,14.0,986.0,n/a,,n/a,
+25,TUR - Istanbul Circuit,5.34,8.0,,21.0,720.0,n/a,,n/a,
+26,USA - Mazda Raceway Laguna Seca,3.61,7.0,,15.0,966.0,n/a,,n/a,
+27,AUS - Phillip Island,4.4,7.0,,13.0,900.0,176.3,,111.2,
+28,RIO - Autódromo Internacional Nelson Piquet,5.031,6.0,,n/a,n/a,n/a,,n/a,
+29,THA - Chang International Circuit,4.6,5.0,,12.0,1000.0,177.9,,109.3,
+30,PAC - Twin Ring Motegi,4.8,6.0,,15.0,762.0,162.2,,105.6,
+31,AUT - Red Bull Ring,4.3,3.0,,13.0,626.0,182.8,,108.0,
+32,CHN - Shanghai Circuit,5.281,7.0,,14.0,1202.0,n/a,,n/a,
+33,GBR - Donington Park Circuit,4.023,4.0,,10.0,564.0,n/a,,n/a,
+34,INP - Indianapolis Motor Speedway,4.216,10.0,,16.0,644.0,n/a,,n/a,
+35,POR - Estoril Circuitt,4.182,4.0,,14.0,986.0,n/a,,n/a,
+36,TUR - Istanbul Circuit,5.34,8.0,,21.0,720.0,n/a,,n/a,
+37,USA - Mazda Raceway Laguna Seca,3.61,7.0,,15.0,966.0,n/a,,n/a,
+38,AUS - Phillip Island,4.4,7.0,,13.0,900.0,176.3,,111.2,
+39,RIO - Autódromo Internacional Nelson Piquet,5.031,6.0,,n/a,n/a,n/a,,n/a,
+40,THA - Chang International Circuit,4.6,5.0,,12.0,1000.0,177.9,,109.3,
+41,PAC - Twin Ring Motegi,4.8,6.0,,15.0,762.0,162.2,,105.6,
+42,AUT - Red Bull Ring,4.3,3.0,,13.0,626.0,182.8,,108.0,
+43,CHN - Shanghai Circuit,5.281,7.0,7.0,14.0,1202.0,n/a,,n/a,
+44,GBR - Donington Park Circuit,4.023,4.0,7.0,10.0,564.0,n/a,,n/a,
+45,INP - Indianapolis Motor Speedway,4.216,10.0,6.0,16.0,644.0,n/a,,n/a,
+46,POR - Estoril Circuitt,4.182,4.0,9.0,14.0,986.0,n/a,,n/a,
+47,TUR - Istanbul Circuit,5.34,8.0,6.0,21.0,720.0,n/a,,n/a,
+48,USA - Mazda Raceway Laguna Seca,3.61,7.0,4.0,15.0,966.0,n/a,,n/a,
+49,AUS - Phillip Island,4.4,7.0,5.0,13.0,900.0,176.3,,111.2,
+50,RIO - Autódromo Internacional Nelson Piquet,5.031,6.0,6.0,n/a,n/a,n/a,,n/a,
+51,THA - Chang International Circuit,4.6,5.0,7.0,12.0,1000.0,177.9,,109.3,
+52,PAC - Twin Ring Motegi,4.8,6.0,8.0,15.0,762.0,162.2,,105.6,
+53,AUT - Red Bull Ring,4.3,3.0,7.0,13.0,626.0,182.8,,108.0,
+54,CHN - Shanghai Circuit,5.281,7.0,7.0,14.0,1202.0,n/a,,n/a,
+55,GBR - Donington Park Circuit,4.023,4.0,7.0,10.0,564.0,n/a,,n/a,
+56,INP - Indianapolis Motor Speedway,4.216,10.0,6.0,16.0,644.0,n/a,,n/a,
+57,POR - Estoril Circuitt,4.182,4.0,9.0,14.0,986.0,n/a,,n/a,
+58,TUR - Istanbul Circuit,5.34,8.0,6.0,21.0,720.0,n/a,,n/a,
+59,USA - Mazda Raceway Laguna Seca,3.61,7.0,4.0,15.0,966.0,n/a,,n/a,
+60,AUS - Phillip Island,4.4,7.0,5.0,13.0,900.0,176.3,,111.2,
+61,RIO - Autódromo Internacional Nelson Piquet,5.031,6.0,6.0,n/a,n/a,n/a,,n/a,
+62,THA - Chang International Circuit,4.6,5.0,7.0,12.0,1000.0,177.9,,109.3,
+63,PAC - Twin Ring Motegi,4.8,6.0,8.0,15.0,762.0,162.2,,105.6,
+64,AUT - Red Bull Ring,4.3,3.0,7.0,13.0,626.0,182.8,,108.0,
+65,CHN - Shanghai Circuit,5.281,7.0,7.0,14.0,1202.0,n/a,,n/a,
+66,GBR - Donington Park Circuit,4.023,4.0,7.0,10.0,564.0,n/a,,n/a,
+67,INP - Indianapolis Motor Speedway,4.216,10.0,6.0,16.0,644.0,n/a,,n/a,
+68,POR - Estoril Circuitt,4.182,4.0,9.0,14.0,986.0,n/a,,n/a,
+69,TUR - Istanbul Circuit,5.34,8.0,6.0,21.0,720.0,n/a,,n/a,
+70,USA - Mazda Raceway Laguna Seca,3.61,7.0,4.0,15.0,966.0,n/a,,n/a,
+71,AUS - Phillip Island,4.4,7.0,5.0,13.0,900.0,176.3,,111.2,
+72,RIO - Autódromo Internacional Nelson Piquet,5.031,6.0,6.0,n/a,n/a,n/a,,n/a,
+73,THA - Chang International Circuit,4.6,5.0,7.0,12.0,1000.0,177.9,,109.3,
+74,PAC - Twin Ring Motegi,4.8,6.0,8.0,15.0,762.0,162.2,,105.6,
+75,AUT - Red Bull Ring,4.3,3.0,7.0,13.0,626.0,182.8,,108.0,
